@@ -6,6 +6,8 @@ In higher dimensions: Multivariate interpolation is the interpolation of functio
 
 Methods of Interpolation![image](https://user-images.githubusercontent.com/90917375/138879226-1f953101-3ad1-4a81-bb42-77854fdbd6e0.png)
 
+
+
 Methods of interpolation are differing in such properties as: accuracy, cost, number of data points needed, and smoothness of the resulting interpolant function.
 ![image](https://user-images.githubusercontent.com/90917375/138879386-013d87ec-2718-4ba8-a597-bfccd5762eae.png)
 
