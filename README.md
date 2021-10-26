@@ -12,6 +12,7 @@ Methods of interpolation are differing in such properties as: accuracy, cost, nu
 
 # My Project
 In my project I decided to implement numerical method for interpolation missing AIS data of ship which includes linear interpolation, cubic interpolation and an identification mechanism for interpolating the missing AIS data of a ship.
+
 ![image](https://user-images.githubusercontent.com/90917375/138882592-1ee4945e-932a-41c9-b8a2-4efc702469fe.png)
 
 
